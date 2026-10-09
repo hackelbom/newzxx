@@ -1,0 +1,38 @@
+{
+  "AppConfig": {
+    "bannerText": "Awaiting Authentication.",
+    "getKeyText": "🔑 Get Key ↗️",
+    "getKeyUrl": "https://t.me/sojibbaii",
+    "imageUrl": "https://raw.githubusercontent.com/Rahman-Gazi/VCamera-Login-Panel/0c1eb3d01a85bee85bb92592402d41549a6258a5/IMG_3913.jpeg",
+    "loginBtnText": "AUTHENTICATE",
+    "maintenanceMode": false,
+    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "statusBadge": "SECURE",
+    "tags": [
+      "👨‍💻 Developed by sojib baii",
+      "🚀  Login Panel V4",
+      "🛠  Stable Build"
+    ],
+    "title": "Crypto Card Society (VCamera)",
+    "updateMsg": "New DPMods version available! Please update.",
+    "updateRequired": false,
+    "updateUrl": "https://t.me/sojibbaii"
+  },
+  "BannedHWIDs": {},
+  "Keys": {
+    "afnan": {
+      "hwid": "F6D610966B2607D1",
+      "expireDate": "2026-07-10",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    },
+    "Admin": {
+      "hwid": "B897CFB4762AA955",
+      "expireDate": "2028-01-01",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
+}
